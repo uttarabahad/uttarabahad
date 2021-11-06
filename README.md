@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uttara Bahad</h1>
+<h1 align="center">Hi 👋, I'm Uttara!</h1>
 - 🌱 I’m currently a student persuing Bachelors in Computer Engineering.<br><br>
 
 
