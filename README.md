@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uttara!</h1>
 - 🌱 I’m currently a student persuing Bachelors in Computer Engineering.<br><br>
-** Completed Hacktoberfest 2021 successfully and now participating in GirlScript Winter of Contribution.<br><br>
-** Part of Future Ready Talent Batch 1
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uttarabahad&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
